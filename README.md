@@ -56,3 +56,7 @@ console.log(total) // Expected value: 6
 [MDN]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
 For more information on functions and how they are used in JS, check out the [MDN docs.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+
+****
+>submitting the lab and will complete part 2/creating another tutorial during catchup week.
