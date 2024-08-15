@@ -59,4 +59,3 @@ For more information on functions and how they are used in JS, check out the [MD
 
 
 ****
->submitting the lab and will complete part 2/creating another tutorial during catchup week.
